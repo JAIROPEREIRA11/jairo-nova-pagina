@@ -1,0 +1,10 @@
+{
+  "name": "pagina-aula",
+  "private": true,
+  "scripts": {
+    "start": "vite"
+  },
+  "devDependencies": {
+    "vite": "^5.4.0"
+  }
+}
